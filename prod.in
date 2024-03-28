@@ -1,0 +1,24 @@
+ AMBER input
+&cntrl
+ntx = 5,
+pres0 = 1.01325,
+barostat = 2,
+restraintmask = "",
+restraint_wt = 0.0,
+ntr = 0,
+ntpr = 2500,
+ntp = 1,
+irest = 1,
+imin = 0,
+ntt = 3,
+temp0 = 298.15,
+gamma_ln = 2.0,
+ntc = 2,
+ntwx = 2500,
+iwrap = 0,
+dt = 0.002,
+ntf = 2,
+nstlim = 25000000,
+/
+
+

@@ -1,0 +1,6 @@
+parm complex.prmtop
+trajin press_2.rst7 
+autoimage
+trajout press2.pdb
+go
+quit
